@@ -1,0 +1,48 @@
+A. Discuss the following:
+
+//Identify and discuss the concept of the Hash Tables in DSA/JavaScript => 
+(Specifics on: Concept, Hash Functions, Hash Sets, Hash Tables, Hash Maps)
+
+-Hash tables are an important concept in Data Structures and Algorithms (DSA) used in storing and accessing data in a quick and effective way. 
+In the field of JavaScript, the hash tables are known as objects literals that allow developers to access value using their keys. 
+The Hash Table concept is based on the idea of ​​using a hash function to convert the keys to thoseindicates in an array. 
+The hash function allows developers to quickly access the values ​​by converting the keys to the indicates where the values ​​are stored.
+In this way, data access has become faster and effective compared to other data structures.
+Hash sets are a type of hash tables containing unique keys only. This allows developers to store unique keys without similarities.
+On the other hand, hash tables contain key-value pairs that allow developers to access value using their keys.
+Hash maps are a type of hash tables containing key-value pairs with unique keys.
+
+//Identify and discuss the concept of the Trees in DSA/JavaScript => (Specifics on: Types and Concepts, Tree Traversals, Structuring and Destructuring Concepts, and Use Cases)
+
+-In the world of data structures and algorithms (DSA) and JavaScript, trees or trees are an important concept used to organize data and provide effective ways of accessing and manipulating information.
+Trees are a type of data structure consisting of nodes connected by edges.
+Each node can have one or more child nodes, which allows the formation of the hierarchy of information.
+There are different types of trees that can be used in DSA and JavaScript.
+The main types of trees are the binary tree, binary search tree, and N-Ary Tree. 
+The binary tree is a type of tree where each node has no more than two child nodes. 
+The binary search tree is a type of binary tree that complies with a specific order order, which enables rapid access to data. 
+The N-Ary Tree is a tree that can have more than two child nodes in each node. 
+In traverse or traveling trees, there are three main methods that can be used:
+the ordered traversal, preorder traversal, and postor traversal.
+In the ordered traversal, the nodes are rotated in the left-child-right order, whereas in preorder traversal, the nodes are rotated in the root-left-child-right order.
+In postor traversal, the nodes are rotated in the left-right-root order.
+Structure and destruction of trees are important concepts in DSA and JavaScript. 
+The structure of the trees enables the development of the hierarchy of the information, while the destrucuring enables the access and manipulation of data within the tree.
+By structuring and destroying trees, data is easier to manage and manipulate. 
+There are various use cases where trees can be used in DSA and JavaScript.
+One of the main use cases of trees is to implement data structures such as binary search tree and heap.
+Trees are also used to implement algorithms such as Tree Traversal and Tree balancing. 
+In general, trees are an important concept in DSA and JavaScript that enables effective organizing and accessing data.
+
+
+
+
+
+https://www.w3schools.com/dsa/dsa_theory_hashtables.php
+https://www.w3schools.com/dsa/dsa_data_hashmaps.php
+https://www.geeksforgeeks.org/hash-table-data-structure/
+https://www.interviewcake.com/concept/java/hash-map
+https://www.w3schools.com/dsa/dsa_theory_trees.php
+https://www.geeksforgeeks.org/introduction-to-tree-data-structure/
+https://www.geeksforgeeks.org/types-of-trees-in-data-structures/
+https://www.wscubetech.com/resources/dsa/tree-data-structure
